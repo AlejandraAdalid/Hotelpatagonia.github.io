@@ -8,13 +8,13 @@ const Capacidad = [{
     Capacidad : "Una persona" ,
     Superficie : "24 m²" ,
     Balcón : "SI" ,
-  Característica: "vistas al lago Nahuel Huapi",
+    Característica: "vistas al lago Nahuel Huapi",
 },
 {
     Capacidad : "Dos adultos , un niño" ,
     Superficie : "48 m²" ,
     Balcón : "NO" ,
-   Característica: "Estudio con vistas al jardín",
+    Característica: "Estudio con vistas al jardín",
 },
 
 ];
